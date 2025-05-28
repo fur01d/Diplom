@@ -1,0 +1,23 @@
+{
+  "query": "Поиск",
+  "salary_min": "Зарплата от",
+  "salary_max": "Зарплата до",
+  "schedule": "График работы",
+  "specialization": "Специализация",
+  "business_trip_readiness": "Командировки",
+  "relocation_readiness": "Переезд",
+  "gender": "Пол",
+  "education_level": "Образование",
+  "nationality": "Гражданство",
+  "driver_licence": "Права",
+  "driver_licence_category": "Категория прав",
+  "driving_experience": "Стаж вождения",
+  "own_transport": "Свой транспорт",
+  "medical_book": "Медкнижка",
+  "age_min": "Возраст от",
+  "age_max": "Возраст до",
+  "experience_min": "Опыт от (лет)",
+  "experience_max": "Опыт до (лет)",
+  "updated_from": "Обновлён с",
+  "updated_to": "Обновлён до"
+}
